@@ -9,5 +9,6 @@
 <url> <loc>https://www.tuosaccounting.com/docs/doc5</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://www.tuosaccounting.com/docs/doc5" /> </url>
 <url> <loc>https://www.tuosaccounting.com/docs/features</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://www.tuosaccounting.com/docs/features" /> </url>
 <url> <loc>https://www.tuosaccounting.com/docs/get-started</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://www.tuosaccounting.com/docs/get-started" /> </url>
+<url> <loc>https://www.tuosaccounting.com/docs/</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://www.tuosaccounting.com/docs/" /> </url>
 <url> <loc>https://www.tuosaccounting.com/docs/pricing</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://www.tuosaccounting.com/docs/pricing" /> </url>
 </urlset>
