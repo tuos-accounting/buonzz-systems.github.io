@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Tuos Accounting Software Blog</title>
+        <link>https://www.tuosaccounting.com/blog</link>
+        <description>Tuos Accounting Software Blog</description>
+        <lastBuildDate>Wed, 27 Jan 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Tuos is Born!]]></title>
+            <link>https://www.tuosaccounting.com/blog/2021/01/27/tuos-is-born</link>
+            <guid>Tuos is Born!</guid>
+            <pubDate>Wed, 27 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[After months of laborious study of product/market fit, I finally chose this niche. Looking at the existing players in the market (QuickBooks, SAP Business One, Maximo etc). I see there are several things that I could fill-in.]]></description>
+        </item>
+    </channel>
+</rss>
